@@ -3,6 +3,7 @@
 Click to visit: [Github Pages](https://ping-xiong.github.io/Dragons-Race-to-the-Edge-Interactive-Map-Backup/)
 
 ## About The Project
+You can find complete maps on directory Original Image File.
 
 
 ## Issues
@@ -10,7 +11,7 @@ There are some tiles are missing.
 
 ## Getting Started
 1. Clone the repo
-2. Run on your web server
+2. Run on your web server ( Exclude folders: screenshots, Original Image File)
 
 ## Roadmap
 - [ ] Add other languages
