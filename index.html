@@ -1,0 +1,200 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Dragons: Race to the Edge Google Maps Experience</title>
+        <meta name="description" content="Join Hiccup and Toothless as they discover new lands and never-seen-before dragons in this Google Maps experience of DRAGONS: RACE TO THE EDGE. Watch on Netflix!">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
+
+        <meta property="og:title" content="Dreamworks Dragons - Race to the Edge">
+        <meta property="og:description" content="Join Hiccup and Toothless as they discover new lands and never-seen-before dragons in this Google Maps experience of DRAGONS: RACE TO THE EDGE. Watch on Netflix!">
+        <meta property="og:site_name" content="Dreamworks Dragons - Race to the Edge">
+        <meta property="og:image" content="http://www.dreamworkstv.com/dragons-race-to-the-edge/map/images/facebook-share.jpg">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="http://www.dreamworkstv.com/dragons-race-to-the-edge/map">
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@DWAnimation">
+        <meta name="twitter:creator" content="@DWAnimation">
+        <meta name="twitter:title" content="Dreamworks Dragons - Race to the Edge">
+        <meta name="twitter:description" content="Join Hiccup and Toothless as they discover new lands and never-seen-before dragons in this Google Maps experience of DRAGONS: RACE TO THE EDGE. Watch on Netflix!">
+        <meta name="twitter:image" content="http://www.dreamworkstv.com/dragons-race-to-the-edge/map/images/twitter-share.jpg">
+
+        <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+
+        <link rel="stylesheet" href="styles/release_7809e459_main.css">
+        <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+        
+        
+        <script src="scripts/jquery.min.js"></script>
+        
+
+        <!-- Start Adobe Analytics Code -->
+        <script>
+            var digitalData = digitalData || {};
+            digitalData = {
+                page : {
+                    pageInfo : {
+                        franchise : "dreamworkstv",
+                        siteTerritory : "us",
+                        siteLanguage : "en",
+                        channel : "shows",
+                        show : "drtte",
+                        pageName : "us:dreamworkstv:shows:drtte:map",
+                    },
+                    /* Login data, not applicable for Phase 1 */
+                    user : [{
+                        profile : [{
+                            profileInfo : {
+                                dspId : "not_applicable",
+                                status : "logged_out"
+                            }
+                        }]
+                    }]
+                }
+            };
+        </script>
+
+        <script src="//assets.adobedtm.com/4508824ab2fd0c50c1ffd991985359cb0a778cf8/satelliteLib-54dcc898eaac1e3107b39ed7d0db83cb93386b3d.js"></script>
+
+        <script>_satellite.track("virtual_page_view");</script>
+        <!-- End Adobe Analytics Code -->
+        <!--
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-39607501-19', 'auto');
+                ga('send', 'pageview');
+            </script>
+        -->
+    </head>
+    <body>
+    
+        <div id="wrapper">
+            <div id="index" class="disabled">         
+                <div class="pattern t-pattern"></div>
+                <div class="pattern r-pattern"></div>
+                <div class="pattern b-pattern"></div>
+                <div class="pattern l-pattern"></div>                
+                <div class="content"></div>  
+                <div class="image-container">
+                    <img class="image" src="images/views/index/hiccup.png"/>
+                </div>
+                <select class="localeSelect">
+                    <option value="en-US">US English</option>
+<!--                    <option value="de-DE">Deutsch</option>-->
+<!--                    <option value="es-ES">Español</option>-->
+<!--                    <option value="fr-FR">Français</option>-->
+<!--                    <option value="nl-NL">Nederlands</option>-->
+<!--                    <option value="pt-BR">Português</option>-->
+                </select>
+                <div class="language-container">
+                    <ul id="language-selector" class="close">
+                    </ul>
+                    <div class="arrow"></div>
+                </div>
+                <footer></footer>
+            </div>
+            <div id="intro" class="disabled">
+                <div class="pattern t-pattern"></div>
+                <div class="pattern r-pattern"></div>
+                <div class="pattern b-pattern"></div>
+                <div class="pattern l-pattern"></div>       
+                <button class="skip">
+                    <div class="label"></div>
+                </button>
+                <div class="poster">
+                    <div class="bttnPlay"></div>
+                </div>
+                
+                <div class="videoContainer"></div>
+                
+            </div>
+            <div id="map" class="disabled">
+                <div class="dragonViewToggle">
+                    <span></span>
+                </div>
+                <div class="dragonViewTip">
+                    <button class="close"></button>
+                    <span></span>
+                </div>
+                <div class="dragonViewAnim"></div>
+                <div id="mobileOverlayView" class="mobileOverlay">
+                    <button class="close"></button>
+                </div>
+                <div id="mapContainer">
+                    <div id="mobileHeader">
+                        <div class="logo"></div>
+                        <button class="menu"></button>
+                    </div>
+                    <div class="pattern t-pattern"></div>
+                    <div class="pattern r-pattern"></div>
+                    <div class="pattern b-pattern"></div>
+                    <div class="pattern l-pattern"></div>
+                    <div id="infoView"></div>
+                    <div class="copyright">Map data &copy;2015 Google&nbsp;&nbsp;Imagery ©2015 NASA, TerraMetrics</div>
+                    <div id="googleContainer"></div>
+                </div>
+                <div id="mapMenu">
+                    <div class="logo"></div>
+                </div>
+            </div>
+            <div id="locationDetail" class="detailView disabled">
+                <div class="pattern t-pattern"></div>
+                <div class="pattern r-pattern"></div>
+                <div class="pattern b-pattern"></div>
+                <div class="pattern l-pattern"></div>
+                <button class="button shadow close back"><span></span></button>
+                <nav>
+                    <a><button class="about selected">{{copy.species}}</button></a>
+                    <a><button class="gallery">{{copy.class}}</button></a>
+                </nav>
+                <div class="content"></div> 
+                <div class="desktop image-container"><img class="image" src=""/></div>
+                <footer></footer>
+            </div>
+            <div id="dragonDetail" class="detailView disabled">
+                <div class="pattern t-pattern"></div>
+                <div class="pattern r-pattern"></div>
+                <div class="pattern b-pattern"></div>
+                <div class="pattern l-pattern"></div>
+                <button class="button shadow close back"><span></span></button>
+                <nav>
+                    <button class="about selected">{{copy.about}}</button>
+                    <button class="gallery">{{copy.gallery}}</button>
+                </nav>
+                <div class="content"></div>
+                <div class="desktop image-container"><img class="image" src=""/></div>
+                <footer></footer>
+            </div>
+
+            <div id="exit" class="disabled">
+                <div class="pattern t-pattern"></div>
+                <div class="pattern r-pattern"></div>
+                <div class="pattern b-pattern"></div>
+                <div class="pattern l-pattern"></div>
+                <div class="content"></div>
+                <footer></footer>
+            </div>
+        </div>
+        
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDycxUXTAOeUy120fXETI_a82tfHR74TT4&libraries=geometry"></script>
+        
+        
+        
+        <script src="scripts/dragons/release_5f3c81ee_dragons-rtte.min.js"></script>
+        
+        
+
+        <!-- Start Adobe Analytics Code -->
+        <script type="text/javascript">_satellite.pageBottom();</script>
+        <!--End Adobe Analytics Code -->
+
+    </body>
+</html>

@@ -1,0 +1,1737 @@
+{
+    "index": {
+        "titleGraphic": "images/locale/us/index-logo.png",
+        "titleGraphicAlt": "Dragons Race to the Edge",
+        "netflixOriginal": "images/locale/us/index-original-series.png",
+        "introText": "Join Hiccup and Toothless as they soar beyond the borders of Berk and discover the mysterious Dragon Eye and new lands filled with undiscovered dragons in this Google Maps experience of <em>DRAGONS: RACE TO THE EDGE.</em>",
+        "exploreMap": "Explore The Map"
+    },
+    "intro": {
+        "youtubeId": "milgCoCMYOA",
+        "label": "Skip Intro"
+    },
+    "map": {
+        "dragonToggle": "Dragon View",
+        "dragonViewTip": "Click here for Dragon View",
+        "mapToggle": "Map View",
+        "locations": [
+            {
+                "slug": "berk",
+                "lat": -6.446317749457633,
+                "long": 12.7880859375
+            },
+            {
+                "slug": "dragon-island",
+                "lat": -0.7690198781221198,
+                "long": -10.7666015625
+            },
+            {
+                "slug": "glacier-island",
+                "lat": 27.009010979748474,
+                "long": 46.3427734375,
+                "useAltMarker": true
+            },
+            {
+                "slug": "dragons-edge",
+                "lat": 21.523389432085327,
+                "long": 39.443359375,
+                "useAltMarker": true
+            },
+            {
+                "slug": "melody-island",
+                "lat": 19.961772297346638,
+                "long": 19.31640625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "outcast-island",
+                "lat": -12.780958454014897,
+                "long": 33.818359375
+            },
+            {
+                "slug": "fireworm-island",
+                "lat": 5.341258053191531,
+                "long": 29.86328125
+            },
+            {
+                "slug": "breakneck-bog",
+                "lat": 7.764104688339926,
+                "long": 22.89794921875
+            },
+            {
+                "slug": "changewing-island",
+                "lat": -20.99345651184148,
+                "long": 6.06689453125
+            },
+            {
+                "slug": "valka-mountain",
+                "lat": 33.384475247558036,
+                "long": 56.73583984375
+            },
+            {
+                "slug": "erets-port",
+                "lat": -45.88328698266879,
+                "long": 58.31787109375
+            },
+            {
+                "slug": "itchy-armpit",
+                "lat": -37.152621019521696,
+                "long": 50.93505859375
+            },
+            {
+                "slug": "screaming-death-island",
+                "lat": -3.381823735328289,
+                "long": 36.1669921875,
+                "useAltMarker": true
+            },
+            {
+                "slug": "dark-deep",
+                "lat": 15.53837592629206,
+                "long": 36.123046875,
+                "useAltMarker": true
+            },
+            {
+                "slug": "dragon-hunter-island",
+                "lat": 38.20365531807151,
+                "long": 7.3828125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "ship-graveyard",
+                "lat": -0.31993243079324785,
+                "long": 32.939453125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "iron-isle",
+                "lat": 21.00247105435674,
+                "long": 13.0078125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "storehouse-island",
+                "lat": -15.411319377980995,
+                "long": -26.015625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "odin-respite",
+                "lat": 7.350251340444958,
+                "long": 14.76806640625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "caldera-cay",
+                "lat": 33.750641556134774,
+                "long": 8.06640625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "island-of-frigg",
+                "lat": -19.364231444917518,
+                "long": 15.1416015625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "sea-stacks",
+                "lat": 4.09308395239966,
+                "long": 20.34912109375,
+                "useAltMarker": true
+            },
+            {
+                "slug": "botany-blight",
+                "lat": -15.961329081596634,
+                "long": 29.1796875,
+                "useAltMarker": true
+            },
+            {
+                "slug": "the-rookery",
+                "lat": -19.228176737766237,
+                "long": -23.92578125
+            },
+            {
+                "slug": "isle-of-vanaheim",
+                "lat": 29.906175981509822,
+                "long": 1.0791015625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "northern-markets",
+                "lat": 8.872902356787685,
+                "long": 3.7158203125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "slitherwing-island",
+                "lat": 19.352610894378625,
+                "long": 5.0537109375,
+                "useAltMarker": true
+            },
+            {
+                "slug": "wingmaiden-island",
+                "lat": 24.952610894378626,
+                "long": -7.9537109375,
+                "useAltMarker": true
+            }
+        ],
+        "dragons": [
+            {
+                "slug": "razorwhip",
+                "lat": 2.1844193368797176,
+                "long": 29.4677734375,
+                "useAltMarker": true
+            },
+            {
+                "slug": "night-fury",
+                "lat": -7.754537346539373,
+                "long": 6.064453125
+            },
+            {
+                "slug": "catastrophic-quaken",
+                "lat": 17.11979250078707,
+                "long": 31.9921875,
+                "useAltMarker": true
+            },
+            {
+                "slug": "death-song",
+                "lat": 27.243679554162803,
+                "long": 18.98681640625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "night-terror",
+                "lat": 24.675760728189392,
+                "long": 42.6953125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "snow-wraith",
+                "lat": 20.29186545289977,
+                "long": 47.33154296875,
+                "useAltMarker": true
+            },
+            {
+                "slug": "rumblehorn",
+                "lat": -11.104252456961209,
+                "long": 21.62353515625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "scauldron",
+                "lat": -22.978623970384902,
+                "long": -5.38330078125
+            },
+            {
+                "slug": "fireworm",
+                "lat": 7.558546606093156,
+                "long": 31.81640625
+            },
+            {
+                "slug": "changewing",
+                "lat": -23.010188986030318,
+                "long": 7.4072265625
+            },
+            {
+                "slug": "terrible-terror",
+                "lat": -1.2866228219888598,
+                "long": 9.18701171875
+            },
+            {
+                "slug": "deadly-nadder",
+                "lat": -11.233591440524,
+                "long": 11.60400390625
+            },
+            {
+                "slug": "hideous-zippleback",
+                "lat": -5.2563928119051795,
+                "long": 19.404296875
+            },
+            {
+                "slug": "monstrous-nightmare",
+                "lat": 1.1521562182216283,
+                "long": 16.65771484375
+            },
+            {
+                "slug": "gronckle",
+                "lat": -13.059370895153545,
+                "long": 2.08984375
+            },
+            {
+                "slug": "armorwing",
+                "lat": 25.011626033314705,
+                "long": 15.3142578125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "bewilderbeast",
+                "lat": 30.37287518811804,
+                "long": 54.9755859375
+            },
+            {
+                "slug": "hotburple",
+                "lat": 3.381823735328302,
+                "long": 11.2060546875
+            },
+            {
+                "slug": "seashocker",
+                "lat": 21.861498734372578,
+                "long": 27.2021484375
+            },
+            {
+                "slug": "stormcutter",
+                "lat": 31.240985378021307,
+                "long": 49.833984375
+            },
+            {
+                "slug": "thunderdrum",
+                "lat": 16.425547506916736,
+                "long": 24.8291015625
+            },
+            {
+                "slug": "whispering-death",
+                "lat": 10.01212955790814,
+                "long": 46.845703125
+            },
+            {
+                "slug": "snaptrapper",
+                "lat": -28.459033019728043,
+                "long": 24.78515625
+            },
+            {
+                "slug": "skrill",
+                "lat": 14.465308082014,
+                "long": 28.6767578125
+            },
+            {
+                "slug": "flightmare",
+                "lat": 26.10492599328551,
+                "long": 11.1865234375
+            },
+            {
+                "slug": "timberjack",
+                "lat": -31.12819929911197,
+                "long": 35.5078125
+            },
+            {
+                "slug": "screaming-death",
+                "lat": -2.3284603685731593,
+                "long": 39.4189453125
+            },
+            {
+                "slug": "buffalord",
+                "lat": 8.363692651835823,
+                "long": 11.4697265625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "triple-stryke",
+                "lat": -26.58852714730863,
+                "long": 53.349609375,
+                "useAltMarker": true
+            },
+            {
+                "slug": "singetail",
+                "lat": -11.695272733029402,
+                "long": -22.8076171875,
+                "useAltMarker": true
+            },
+            {
+                "slug": "cavern-crasher",
+                "lat": 4.959615024698026,
+                "long": 35.5517578125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "submaripper",
+                "lat": -14.732386081418454,
+                "long": -5.80078125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "eruptodon",
+                "lat": 32.76880048488168,
+                "long": 12.1728515625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "shellfire",
+                "lat": 22.06527806776582,
+                "long": 34.541015625,
+                "useAltMarker": true
+            },
+            {
+                "slug": "sandbuster",
+                "lat": 7.872946653352763,
+                "long": 7.1435546875,
+                "useAltMarker": true
+            },
+            {
+                "slug": "sentinel",
+                "lat": 27.224142661939663,
+                "long": 1.8701171875,
+                "useAltMarker": true
+            },
+            {
+                "slug": "slitherwing",
+                "lat": 22.17599964494189,
+                "long": 1.9580078125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "grim-gnasher",
+                "lat": 26.02597449578432,
+                "long": 5.1220703125,
+                "useAltMarker": true
+            },
+            {
+                "slug": "dramillion",
+                "lat": 15.952610894378626,
+                "long": -20.7537109375,
+                "useAltMarker": true
+            }
+        ],
+        "info": {
+            "photos": "Photos",
+            "species": "Species",
+            "class": "Class",
+            "findOutMore": "Find Out More",
+            "viaDragon": "Via Dragon To Dragon's Edge",
+            "viaDragonToBerk": "Via Dragon To Berk",
+            "ratings": "Ratings"
+        }
+    },
+    "menu": {
+        "logoLockup": "images/locale/us/index-logo.png",
+        "showMapMarkers": "Show Map Markers",
+        "visitMoreSites": "Visit more sites:",
+        "navItems": [
+            {
+                "label": "Official Dragons Site",
+                "url": "https://www.howtotrainyourdragon.com/",
+                "coppa": false
+            },
+            {
+                "label": "Dreamworks TV",
+                "url": "http://www.dreamworkstv.com/shows/dragons-race-to-the-edge/",
+                "coppa": false
+            },
+            {
+                "label": "Watch on Netflix",
+                "url": "http://www.netflix.com/WiMovie/80039394",
+                "coppa": true
+            }
+        ],
+        "allEpisodesStreamingLockup": "images/locale/us/all-episodes-streaming-now.png",
+        "allEpisodesStreamingWidth": 117
+    },
+    "legal": {
+        "ratingsImage": "images/locale/us/footer-rating-logo.jpg",
+        "copyright": "DreamWorks Dragons Race to the Edge &copy; 2018 DreamWorks Animation LLC. All Rights Reserved.",
+        "links": [
+            {
+                "label": "Terms of Use",
+                "url": "http://dsp.dreamworks.com/dsppublic/info/terms",
+                "id": "terms-of-use"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "http://dsp.dreamworks.com/dsppublic/info/privacy",
+                "id": "privacy-policy"
+            }
+        ]
+    },
+    "social": {
+        "facebook": "https://www.facebook.com/HowToTrainYourDragon?fref=ts",
+        "tumblr": "http://howtotrainyourdragon.tumblr.com/"
+    },
+    "locations": {
+        "berk": {
+            "name": "Isle of Berk",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/berkthumbnail.jpg",
+                "summary": "This is Berk, a dragon-friendly utopia jointly led by new chief, Hiccup, and his best friend, Toothless, the reigning Alpha of all dragons.",
+                "flyingTime": "34 h",
+                "ratingCount": 5,
+                "numRatings": "7,224",
+                "location": "",
+                "quote": {
+                    "copy": "“This is Berk. It’s twelve days north of Hopeless and a few degrees south of Freezing to Death. It’s located solidly on the Meridian of Misery.”",
+                    "author": "Hiccup"
+                },
+                "synopsis": "Much has changed on Berk in the five years since Hiccup and Toothless bonded and showed Vikings and dragons alike that coexistence between their species is not just a possibility — it’s the way of the future. \n\nThe catapults and trebuchets that once dominated Berk’s towers during wartime have now given way to aqueducts, wing-inspired windmills, and Dragon Racing bleachers. Similar changes also occurred beneath Berk’s surface, where a reinforced hangar, complete stables, feeding troughs, and a dragon wash now occupy the old Whispering Death catacombs.\n\nDespite Drago Bludvist’s vicious attack on the island, Berk survived the Bewilderbeast’s barrage and emerged from the fray stronger than ever. Now joined by the full compliment of Valka’s flock and the liberated members of Drago’s army, the people of Berk take to the skies on the backs of their dragons to protect their home and spread their message of peace. ",
+                "image": "images/views/detail/locations/dragons-isle-of-berk.png",
+                "imageName": "dragons-isle-of-berk"
+            },
+            "photos": [
+                "images/views/detail/gallery/berk-01.jpg",
+                "images/views/detail/gallery/berk-02.jpg",
+                "images/views/detail/gallery/berk-03.jpg"
+            ]
+        },
+        "dragon-island": {
+            "name": "Dragon Island ",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/dragonislandthumbnail.jpg",
+                "summary": "Hidden behind a veil of perpetual fog, Dragon Island was once the home of — and now the final resting place to — the massive and fearsome dragon tyrant, the Red Death.",
+                "flyingTime": "47 h",
+                "ratingCount": "5",
+                "numRatings": "954",
+                "location": "",
+                "quote": {
+                    "copy": "Only a dragon can find the island.",
+                    "author": "Hiccup"
+                },
+                "synopsis": "For centuries, the seafaring and warmongering Vikings of Berk launched countless campaigns to locate and raze the fabled Dragon Island in the hopes of ending the regular dragon sieges on their homeland… only to return empty-handed time and time again. \n\nBut where previous generations failed, Hiccup and Toothless succeeded when they followed a strange signal heard only by dragons to the caldera at the heart of the volcanic Dragon Island. There, from deep within a pool of lava, the Red Death commanded all dragons to raid Viking villages and return with all stolen foods to feed its ravenous appetite. \n\nUpon learning of Dragon Island’s true location, Stoick the Vast led his Viking army to attack the Red Death, and nearly perished before a timely rescue from Hiccup, Toothless, and their fellow dragon riders. Berk’s victory over the Red Death came at a cost, but that sacrifice was far outweighed by the truth proven by Hiccup and Toothless: humans and dragons can and must work together for the betterment of all.",
+                "imageName": "dragons-dragon-island"
+            },
+            "photos": [
+                "images/views/detail/gallery/dragon-island-02.jpg",
+                "images/views/detail/gallery/dragon-island-01.jpg",
+                "images/views/detail/gallery/dragon-island-03.jpg"
+            ]
+        },
+        "glacier-island": {
+            "name": "Glacier Island",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/snowwraithisland.jpg",
+                "summary": "Desolate and frostbitten, this glacier is far from lifeless. The heat-seeking Snow Wraith attacks trespassers like an avalanche to defend itself and its mysterious connection to the Dragon’s Eye.",
+                "flyingTime": "5 h",
+                "ratingCount": "2",
+                "numRatings": "2,450",
+                "location": "",
+                "quote": {
+                    "copy": "I had a longing to climb Glacier Island to find pure glacial water, known for its healing properties. We were hit by a terribly snow storm. That's when it attacked.",
+                    "author": "Gothi, as interpreted by Gobber"
+                },
+                "synopsis": "Led far away from Berk and far out of their comfort zone by clues hidden within the Dragon’s Eye, Hiccup, Toothless, and their teammates ventured to Glacier Island in search of the elusive, arctic dragon. \n\nHowever, the dragon riders were not the first Vikings to venture to this icy and extreme environment. Village elder Gothi was once part of an expedition into these frozen hinterlands years ago, and barely survived the experience.\n\nThe Snow Wraith is to winter what the Night Fury is to night. It senses the fall of each snowflake. It hears the glacial movement of every iceberg. It feels the slightest change in even the most frigid of temperatures. The Snow Wraith is the sole and uncontested denizen of its island. And when the chill wind roars, it might be the weather, or it might be the Snow Wraith descending upon its next victims.",
+                "imageName": "glacier-island"
+            },
+            "photos": [
+                "images/views/detail/gallery/glacier-island-01.jpg",
+                "KivtXPpCioY",
+                "images/views/detail/gallery/glacier-island-02.jpg",
+                "images/views/detail/gallery/glacier-island-03.jpg"
+            ]
+        },
+        "dragons-edge": {
+            "name": "Dragon's Edge",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/dragons-edge.jpg",
+                "summary": "Beyond Berk and away from the archipelago, the Dragon’s Edge is part clubhouse, part launching point for the dragon riders’ new missions into strange lands and against even stranger menaces.",
+                "flyingTime": "34  h",
+                "ratingCount": "5",
+                "numRatings": "844",
+                "location": "",
+                "quote": {
+                    "copy": "We'll connect the different sections with bridges, ziplines and gangplanks. We'll have really cool stables with our own landing strip. And of course a dragon training arena. And in the center overlooking everything else will be the clubhouse, the \"eye\" of Dragon's Edge.",
+                    "author": "Hiccup"
+                },
+                "synopsis": "After discovering the Dragon’s Eye and learning of all of the hidden worlds and dragon species well past Berk’s borders, Hiccup, Toothless and the other dragon riders set out to chart their own destinies and find a new island from which they could explore the larger world — The Dragon’s Edge.\n\nLocated a full day’s flight from Berk, the Dragon’s Edge boasts huts designed to reflect the personality of each dragon rider, as well as shared areas like the clubhouse and domed training arena. The island also features its own native defense system: The Night Terrors, a flock of smaller dragons that fly in formation to assume the shape of much larger beasts in order to ward off any predators from the Edge’s shores.",
+                "imageName": "dragons-dragon-edge"
+            },
+            "photos": [
+                "images/views/detail/gallery/dragons-edge-00.jpg",
+                "images/views/detail/gallery/dragons-edge-01.jpg",
+                "images/views/detail/gallery/dragons-edge-02.jpg",
+                "7XJQ1owzIeU",
+                "images/views/detail/gallery/dragons-edge-03.jpg"
+            ]
+        },
+        "dark-deep": {
+            "name": "Dark Deep",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/dark-deep-island.jpg",
+                "summary": "The craggy and rocky legendary home of the Gronckles. It’s cavernous with lots of rocks for Gronckles to munch on. ",
+                "flyingTime": "4 h",
+                "ratingCount": "4",
+                "numRatings": "700",
+                "location": "",
+                "quote": {
+                    "copy": "We'll connect the different sections with bridges, ziplines and gangplanks. We'll have really cool stables with our own landing strip. And of course a dragon training arena. And in the center overlooking everything else will be the clubhouse, the \"eye\" of Dragon's Edge.",
+                    "author": "Hiccup"
+                },
+                "synopsis": "It is also home to the Catastrophic Quaken – a fearsome Boulder Class dragon that is muscling out the Gronckles for their food source. But the Quaken might have a hidden secret, and the dragon riders must figure it out before the Gronckles are displaced forever.",
+                "imageName": "dragons-dark-deep"
+            },
+            "photos": [
+                "images/views/detail/gallery/dark-deep-island-01.jpg"
+            ]
+        },
+        "dragon-hunter-island": {
+            "name": "Dragon Hunter Island",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/dragon-hunter-island.jpg",
+                "summary": "A major port for the dragon trade. Where Hunters will sell the dragons they have captured for a large sum.",
+                "flyingTime": "28 h",
+                "ratingCount": "1",
+                "numRatings": "825",
+                "location": "",
+                "quote": {
+                    "copy": "We'll connect the different sections with bridges, ziplines and gangplanks. We'll have really cool stables with our own landing strip. And of course a dragon training arena. And in the center overlooking everything else will be the clubhouse, the \"eye\" of Dragon's Edge.",
+                    "author": "Hiccup"
+                },
+                "synopsis": "",
+                "imageName": "dragons-dragon-hunter-island"
+            },
+            "photos": []
+        },
+        "ship-graveyard": {
+            "name": "Ship Graveyard",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/ship-graveyard.jpg",
+                "summary": "In the fog surrounding the archipelago lies an abandoned graveyard of ships where unlucky sailors have lost their bearings and crashed.",
+                "flyingTime": "21 h",
+                "ratingCount": "2",
+                "numRatings": "400",
+                "location": "",
+                "quote": {
+                    "copy": "We'll connect the different sections with bridges, ziplines and gangplanks. We'll have really cool stables with our own landing strip. And of course a dragon training arena. And in the center overlooking everything else will be the clubhouse, the \"eye\" of Dragon's Edge.",
+                    "author": "Hiccup"
+                },
+                "synopsis": "But it’s not completely hidden to all Vikings; Trader Johann uses this secluded spot to store all his goods and wares. The graveyard also houses another secret, the Dragon Eye.",
+                "imageName": "dragons-ship-graveyard"
+            },
+            "photos": [
+                "images/views/detail/gallery/ship-graveyard-01.jpg",
+                "images/views/detail/gallery/ship-graveyard-02.jpg"
+            ]
+        },
+        "screaming-death-island": {
+            "name": "Screaming Death Island",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/screaming-death-island.jpg",
+                "summary": "A huge landmass dotted with holes where the Screaming Death and its mother have taken up residence since their escape from Berserker Island at the end of Defenders of Berk.",
+                "flyingTime": "23 h",
+                "ratingCount": "3",
+                "numRatings": "548",
+                "location": "",
+                "quote": {
+                    "copy": "We'll connect the different sections with bridges, ziplines and gangplanks. We'll have really cool stables with our own landing strip. And of course a dragon training arena. And in the center overlooking everything else will be the clubhouse, the \"eye\" of Dragon's Edge.",
+                    "author": "Hiccup"
+                },
+                "synopsis": "",
+                "imageName": "dragons-screaming-death-island"
+            },
+            "photos": []
+        },
+        "iron-isle": {
+            "name": "Iron Isle",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/iron-isle.jpg",
+                "summary": "This looks like an ordinary island, but looks can be deceiving.",
+                "flyingTime": "23 h",
+                "ratingCount": "3",
+                "numRatings": "647",
+                "location": "",
+                "quote": {
+                    "copy": "We'll connect the different sections with bridges, ziplines and gangplanks. We'll have really cool stables with our own landing strip. And of course a dragon training arena. And in the center overlooking everything else will be the clubhouse, the \"eye\" of Dragon's Edge.",
+                    "author": "Hiccup"
+                },
+                "synopsis": "This island is home to the fearsome Armorwing, a dragon that steals any metal it can find from unsuspecting travelers and fuses it to its hard shell. If you explore this island, make sure your keep a firm hand on your axe or sword.",
+                "imageName": "dragons-iron-isle"
+            },
+            "photos": [
+                "images/views/detail/gallery/iron-isle-01.jpg",
+                "images/views/detail/gallery/iron-isle-03.jpg",
+                "images/views/detail/gallery/iron-isle-04.jpg",
+                "images/views/detail/gallery/iron-isle-05.jpg"
+            ]
+        },
+        "melody-island": {
+            "name": "Melody Island",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/melody-island.jpg",
+                "summary": "Warm and alluring, yet deceptively deadly, Melody Island lures wayward Viking and dragons to its beautiful beaches, before the siren-like Death Song seals their fates in a shell of amber.",
+                "flyingTime": "18 h",
+                "ratingCount": "1",
+                "numRatings": "534",
+                "location": "",
+                "quote": {
+                    "copy": "It's the sound. That song, it's what draws the dragons in.",
+                    "author": "Hiccup"
+                },
+                "synopsis": "Sunlit beaches. Clear waterfalls. Fresh fruit. Melody Island offers everything a travel-weary Viking or dragon could desire before falling prey to the tropical idyll’s resident predator, the Death Song. \n\nBoth colorful and cannibalistic, the Death Song entices dragons onto Melody Island with its lethal lullaby and then traps its unfortunate, hypnotized victims in a thick amber cocoon so that it can feast on them at a later time.\n\nAs they race to the edge, the dragon riders must overcome temptation, tune out the Death Song, and flee Melody Island before they become part of its enthralling mystique — forever.",
+                "imageName": "dragons-melody-island"
+            },
+            "photos": [
+                "images/views/detail/gallery/melody-island-01.jpg",
+                "images/views/detail/gallery/melody-island-02.jpg",
+                "D-dHvRlV3xI"
+            ]
+        },
+        "outcast-island": {
+            "name": "Outcast Island",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/outcastislandthumbnail.jpg",
+                "summary": "Once the vile headquarters of Alvin the Treacherous and his Outcast Tribe, this island held many dragons in its dungeons, including Whispering Deaths. Dagur the Deranged briefly usurped control before a vindictive Screaming Death ravaged the island and freed its captive brethren. ",
+                "flyingTime": "28 h",
+                "ratingCount": "1",
+                "numRatings": "4,097",
+                "location": "",
+                "quote": "",
+                "synopsis": "",
+                "imageName": "dragons-outcast-island"
+            },
+            "photos": []
+        },
+        "fireworm-island": {
+            "name": "Fireworm Island",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/firewormislandthumbnail.jpg",
+                "summary": "Originally discovered by Bork the Bold, this cavernous island contains the Fireworm Queen and her highly flammable hive of Firecomb. The dragon riders successfully navigated their way here by following a lantern filled with Fireworms, which glowed brighter as they neared the nest.",
+                "flyingTime": "16 h 30 min",
+                "ratingCount": "3",
+                "numRatings": "554",
+                "location": "",
+                "quote": "",
+                "synopsis": "",
+                "imageName": "dragons-fireworm-island"
+            },
+            "photos": []
+        },
+        "breakneck-bog": {
+            "name": "Breakneck Bog",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/breakneckbogthumbnail.jpg",
+                "summary": "Shrouded in a dense haze, Breakneck Bog has earned a reputation for being a haunted graveyard for scuttled ships and lost sailors. In actuality, the Bog is home to the scrap snacking, smoke-spewing dragons known as Smothering Smokebreaths.",
+                "flyingTime": "20 h 25 min",
+                "ratingCount": "3",
+                "numRatings": "40",
+                "location": "",
+                "quote": "",
+                "synopsis": "",
+                "imageName": "dragons-breakneck-bog"
+            },
+            "photos": [
+                ""
+            ]
+        },
+        "changewing-island": {
+            "name": "Changewing Island",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/changewingislandthumbnail.jpg",
+                "summary": "This forested isle hides many surprises in its thick branches — from the acid-spitting, chameleonic Changewings to their iridescent eggs nestled on the boughs. The only safe part of this island is the sky above it, where Changewings are unable to blend into their surroundings.",
+                "flyingTime": "46 h",
+                "ratingCount": "3",
+                "numRatings": "765",
+                "location": "",
+                "quote": "",
+                "synopsis": "",
+                "imageName": "dragons-changewing-island"
+            },
+            "photos": [
+                ""
+            ]
+        },
+        "valka-mountain": {
+            "name": "Valka's Mountain",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/valkasmountainthumbnail.jpg",
+                "summary": "A remote, frigid wasteland on the outside, Valka’s mountain nest actually houses a lush, geothermally heated oasis for the thousands of dragons that live there, as well as their king — the mighty and benevolent Bewilderbeast.",
+                "flyingTime": "13 h 30 min",
+                "ratingCount": "5",
+                "numRatings": "545",
+                "location": "",
+                "quote": "",
+                "synopsis": "",
+                "imageName": "dragons-valka-moutains"
+            },
+            "photos": [
+                ""
+            ]
+        },
+        "erets-port": {
+            "name": "Eret's Port",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/eretsfortthumbnail.jpg",
+                "summary": "This trapper outpost once snared and shipped dragons to Drago Bludvist’s army — until Valka’s Bewilderbeast obliterated it. The fort’s frozen wreckage remains preserved in the ice blasts, serving as a warning to dragon trappers everywhere. ",
+                "flyingTime": "61 h 30 min",
+                "ratingCount": "1",
+                "numRatings": "1,322",
+                "location": "",
+                "quote": "",
+                "synopsis": "",
+                "imageName": "dragons-eret-port"
+            },
+            "photos": [
+                ""
+            ]
+        },
+        "itchy-armpit": {
+            "name": "Itchy Armpit",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/itchyarmpitthumbnail.jpg",
+                "summary": "This autumn-hued fjord represented the farthest east Hiccup and Toothless traveled on their world-mapping adventures before smoke trails led them to Eret’s devastated fort and, ultimately, to Valka and Drago’s war over dragons.",
+                "flyingTime": "53 h",
+                "ratingCount": "2",
+                "numRatings": "887",
+                "location": "",
+                "quote": "",
+                "synopsis": "",
+                "imageName": "dragons-itchy-armpit"
+            },
+            "photos": [
+                ""
+            ]
+        },
+        "storehouse-island": {
+            "name": "Storehouse Island",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/storehouse-island.jpg",
+                "summary": "Storehouse Island was created to house a secret cache of emergency supplies to be accessed in case of an attack on Berk",
+                "flyingTime": "58 h",
+                "ratingCount": "4",
+                "numRatings": "77",
+                "location": "",
+                "synopsis": "After joining Astrid’s auxiliary dragon riders, Spitelout started to think of other ways he could help protect the archipelago. Thus was born Storehouse Island: A secret cache of emergency supplies to be accessed in case of an attack on Berk. But in true Jorgensen fashion, Spitelout settled Storehouse Island without first checking with its natural inhabitants — the incendiary Singetails",
+                "imageName": "storehouse-island"
+            },
+            "photos": [
+                "images/views/detail/gallery/storehouse-island-01.jpg",
+                "images/views/detail/gallery/storehouse-island-02.jpg",
+                "images/views/detail/gallery/storehouse-island-03.jpg",
+                "wsRhKe2LQxU"
+            ]
+        },
+        "odin-respite": {
+            "name": "Odin's Respite",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/odin-respite.jpg",
+                "summary": "As calm and laid back as the lumbering Buffalord dragons that live there",
+                "flyingTime": "22 h",
+                "ratingCount": "3",
+                "numRatings": "367",
+                "location": "",
+                "synopsis": "Hunted to the point of near extinction ages ago, the dragon species known as the Buffalords ultimately found a haven — and plenty of grass for grazing — on this remote, verdant island. As calm and laid back as the lumbering dragons that live there, Odin’s Respite was so named by Hiccup as a nod to the fact that Buffalord drool contains the only antidote for a deadly illness known as The Scourge of Odin",
+                "imageName": "odins-respite"
+            },
+            "photos": [
+                "images/views/detail/gallery/odins-respite-01.jpg",
+                "images/views/detail/gallery/odins-respite-02.jpg",
+                "images/views/detail/gallery/odins-respite-03.jpg",
+                "HEdhIAMdECY"
+            ]
+        },
+        "caldera-cay": {
+            "name": "Caldera Cay",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/caldera-cay.jpg",
+                "summary": "Serves as the headquarters — and a place of worship — for the dragon-revering Defenders of the Wing",
+                "flyingTime": "26 h",
+                "ratingCount": "2",
+                "numRatings": "223",
+                "location": "",
+                "synopsis": "Situated under the shadow of a dormant volcano, Caldera Cay serves as the headquarters — and a place of worship — for the dragon-revering Defenders of the Wing. As with most islands, Caldera Cay still exists due to the delicate balance achieved by its geothermal activity and the dragon the Defenders exalt above all others: The Eruptodon!",
+                "imageName": "caldera-bay"
+            },
+            "photos": [
+                "-anbjhjq2KU",
+                "images/views/detail/gallery/caldera-cay-01.jpg",
+                "images/views/detail/gallery/caldera-cay-02.jpg",
+                "images/views/detail/gallery/caldera-cay-03.jpg",
+                "images/views/detail/gallery/caldera-cay-04.jpg",
+                "images/views/detail/gallery/caldera-cay-05.jpg"
+            ]
+        },
+        "island-of-frigg": {
+            "name": "Island of Frigg",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/island-of-frigg.jpg",
+                "summary": "Named after the wise Norse goddess, this island’s Grimora leeches ironically replace a dragon’s wisdom with rage",
+                "flyingTime": "42 h",
+                "ratingCount": "5",
+                "numRatings": "647",
+                "location": ""
+            }
+        },
+        "sea-stacks": {
+            "name": "Sea Stacks",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/sea-stacks.jpg",
+                "summary": "The perfect place to add new sections to a map or practice dragon riding maneuvers",
+                "flyingTime": "22 h",
+                "ratingCount": "3",
+                "numRatings": "841",
+                "location": ""
+            }
+        },
+        "tyr-island": {
+            "name": "Tyr Island",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/iron-isle.jpg",
+                "summary": "The formerly secret island where dragons are held in captivity and auctioned to the highest bidder",
+                "flyingTime": "31 h",
+                "ratingCount": "3",
+                "numRatings": "647",
+                "location": ""
+            }
+        },
+        "botany-blight": {
+            "name": "Botany Blight",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/botany-blight.jpg",
+                "summary": "Low tide reveals fields of native Blue Oleander flowers that thrive in salt water and poison any dragon",
+                "flyingTime": "30 h",
+                "ratingCount": "2",
+                "numRatings": "411",
+                "location": ""
+            }
+        },
+        "the-rookery": {
+            "name": "The Rookery",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/rookery.jpg",
+                "summary": "The warm oasis where dragons flock every winter to welcome their new hatchlings and teach them to fly",
+                "flyingTime": "59 h",
+                "ratingCount": "3",
+                "numRatings": "1,742",
+                "location": ""
+            }
+        },
+        "northern-markets": {
+            "name": "Northern Markets",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/locations/northernmarkets.jpg",
+                "summary": "Once an unspoiled island, the Northern Markets now house an unsavory port teeming with pirates, weapon mongers, and dragon trappers.",
+                "flyingTime": "30 h",
+                "ratingCount": "4",
+                "numRatings": "588",
+                "location": "",
+                "imageName": "northern-markets"
+            },
+            "photos": [
+                "images/views/detail/gallery/northern-markets-01",
+                "images/views/detail/gallery/northern-markets-02",
+                "images/views/detail/gallery/northern-markets-03",
+                "images/views/detail/gallery/northern-markets-04"
+            ]
+        },
+        "isle-of-vanaheim": {
+            "name": "Isle of Vanaheim",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/isleofvanaheim.jpg",
+                "summary": "A remote dragon graveyard with frigid foundations, Vanaheim brings peace to ailing dragons — and danger to all others.",
+                "flyingTime": "27 h",
+                "ratingCount": "2",
+                "numRatings": "498",
+                "location": null,
+                "imageName": "isle-of-vanaheim",
+                "synopsis": "Protected by towering ice spires and flocks of Sentinel dragons, the Isle of Vanaheim welcomes all sick and elderly dragons who make their final pilgrimage to this sacred land. Vanaheim’s jagged coastline and foreboding atmosphere keep all but the most intrepid of explorers at bay. But those who manage to get past the unblinking guardians will find a treasure trove of diverse remains and a lasting testament to the mystery and grandeur of dragons."
+            },
+            "photos": [
+                "images/views/detail/gallery/isle-of-vanaheim-01",
+                "images/views/detail/gallery/isle-of-vanaheim-02",
+                "Tp5WyZ9nF9E"
+            ]
+        },
+        "slitherwing-island": {
+            "name": "Slitherwing Island",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/slitherwingisland.jpg",
+                "summary": "A viper pit of no return, Slitherwing Island has no other inhabitants —they’ve already been hunted to extinction!",
+                "flyingTime": "24 h",
+                "ratingCount": "1",
+                "numRatings": "703",
+                "location": null,
+                "imageName": "slitherwing-island",
+                "synopsis": "Although seemingly peaceful on its surface, Slitherwing Island is actually home to a vast, coiling nest of the venomous dragons. The Slitherwings have tunneled dens throughout the island and strike at any travelers unfortunate enough to arrive upon their shores. Alluringly tropical yet appallingly toxic, Slitherwing Island is a place best viewed from a distance. "
+            },
+            "photos": [
+                "images/views/detail/gallery/slitherwing-island-01",
+                "images/views/detail/gallery/slitherwing-island-02",
+                "images/views/detail/gallery/slitherwing-island-03",
+                "VA7-9iLPorU"
+            ]
+        },
+        "wingmaiden-island": {
+            "name": "Wingmaiden Island",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/locations/wingmaiden.jpg",
+                "summary": "An idyllic aerie in a remote corner of the archipelago, Wingmaiden Island serves as the flying females’ secret launching point — so secret, they’ll go to any lengths to protect it!",
+                "synopsis": "The Wingmaidens have long flocked to this secluded island, as it’s the hatching place of their beloved Razorwhips. Wearing the juvenile dragons like winged backpacks, these warrior women maintain their forested, tranquil preserve and eradicate any enemies that happen upon its shores. As all who would dare predate upon Razorwhips quickly learn, Valhalla hath no fury like a Wingmaiden scorned!",
+                "ratingCount": "3",
+                "numRatings": "125",
+                "flyingTime": "29 h",
+                "imageName": "dragons-wingmaiden-island"
+            },
+            "photos": [
+                "images/views/detail/gallery/wingmaiden-1.jpg",
+                "images/views/detail/gallery/wingmaiden-2.jpg",
+                "Hho9NtZZrVQ",
+                "a36WykAPyJ8"
+            ]
+        }
+    },
+    "dragons": {
+        "armorwing": {
+            "name": "Armorwing",
+            "hasDetail": {},
+            "info": {
+                "thumbnail": "images/views/map/dragons/armorwing.jpg",
+                "summary": "Sitting atop its hoarded pile of looted metal on Iron Isle, the Armorwing dragon appears at once impregnable and invincible, but appearances can be deceiving.",
+                "class": "Mystery",
+                "description": "With its welding torch-like flames and chain-whip tail, the Armorwing keeps enemies at bay long enough for it to attract new scraps of metal to its magnetic body and fuse them into an ever-expanding coat of armor.",
+                "synopsis": "However, that armor is just a shell used for protection and intimidation. Beneath that reinforced hide lies a much different dragon that would prefer to remain in isolation with its vate trove of discarded metal treasures.",
+                "image": "images/views/detail/dragons/armorwing.png",
+                "imageName": "armorwing"
+            },
+            "photos": [
+                "images/views/detail/gallery/armorwing-01.jpg",
+                "images/views/detail/gallery/armorwing-02.jpg",
+                "images/views/detail/gallery/armorwing-03.jpg",
+                "images/views/detail/gallery/armorwing-04.jpg",
+                "images/views/detail/gallery/armorwing-05.jpg",
+                "images/views/detail/gallery/armorwing-06.jpg",
+                "oPT08DpDkVM"
+            ]
+        },
+        "seashocker": {
+            "name": "Seashocker",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/seashocker.jpg",
+                "summary": "Supremely furtive, Seashockers share attributes with many of the ocean's most extraordinary creatures: the morphology of a manta ray, the sonar of a dolphin, and the bioluminescence of a deep dweller. ",
+                "class": "Tidal",
+                "description": "Seashockers possess two heads, but only have one thing on their twin brains: predation. If you ever see their dark fins amongst the waves, it's already too late for you - the rest of their pod has already moved in to attack!",
+                "synopsis": "Being water-based dragons, Seashockers do not breathe fire. Instead, their bites paralyze victims with an electrical charge that stuns even the biggest prey into submission. Perhaps this is the reason why all dragons fear the Seashocker's closest evolutionary relative - the electric eel! ",
+                "image": "images/views/detail/dragons/seashocker.png",
+                "imageName": "seashocker"
+            },
+            "photos": [
+                "images/views/detail/gallery/seashocker-01.jpg",
+                "images/views/detail/gallery/seashocker-02.jpg"
+            ]
+        },
+        "skrill": {
+            "name": "Skrill",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/skrill.jpg",
+                "summary": "One of the most mysterious and feared species in the Book of Dragons, the Skrill is aggressive, powerful and nearly untrainable.",
+                "class": "Strike",
+                "description": "Skrills do not beathe fire. Instead, they channel lightning down their metallic spines, firing it from their mouths in a shower of destructive blasts. They can also store this electrical power in their bodies and release it later on.",
+                "synopsis": "Because of this unique firepower, Skrills tend to gravitate towards stormy weather. If you find yourself flying through a thunderstorm, watch out! Skrills are also tough. They can take a lot of damage in battle, and give as good as they get. However, the Skrill has one weakness... it cannot fire its lightning from water.",
+                "image": "images/views/detail/dragons/skrill.png",
+                "imageName": "skrill"
+            },
+            "photos": [
+                "images/views/detail/gallery/skrill-01.jpg",
+                "images/views/detail/gallery/skrill-02.jpg",
+                "images/views/detail/gallery/skrill-03.jpg",
+                "images/views/detail/gallery/skrill-04.jpg",
+                "images/views/detail/gallery/skrill-05.jpg",
+                "abrncYsJkSE"
+            ]
+        },
+        "thunderdrum": {
+            "name": "Thunderdrum",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/thunderdrum.jpg",
+                "summary": "Instead of breathing fire, the Thunderdrum produces a strong concussive sound that can kill a human at close range.",
+                "class": "Tidal",
+                "description": "Strident and assertive, the loud Thunderdrum always makes its feelings known.",
+                "synopsis": "When not swelling up with air in order to yell, Thunderdrums can actually flatten their bodies by expelling all oxygen from their massive lungs for a limited period of time. In this sleeker state, Thunderdrums can better skim the ocean surfaces or even dive beneath the waves in search of prey.",
+                "image": "images/views/detail/dragons/thunderdrum.png",
+                "imageName": "thunderdrum"
+            },
+            "photos": [
+                "images/views/detail/gallery/thunderdrum-01.jpg",
+                "images/views/detail/gallery/thunderdrum-02.jpg",
+                "images/views/detail/gallery/thunderdrum-03.jpg",
+                "images/views/detail/gallery/thunderdrum-04.jpg",
+                "images/views/detail/gallery/thunderdrum-05.jpg"
+            ]
+        },
+        "stormcutter": {
+            "name": "Stormcutter",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/stormcutter.jpg",
+                "summary": "The owl-like Stormcutter is a proud and confident dragon.",
+                "class": "Sharp",
+                "description": "Stormcutters feature a second set of hidden wings. When all four wings are deployed in an X-formation, there is no dragon in the sky more maneuverable and precise!",
+                "synopsis": "While fearsome at first glance, a Stormcutter's fore-talons can actually be quite nimble and delicate when the occasion calls for skill over savagery. These sharp, hooked pincers are dexterous enough to gingerly pick the lock of a dragon trap.",
+                "image": "images/views/detail/dragons/stormcutter.png",
+                "imageName": "stormcutter"
+            },
+            "photos": [
+                "images/views/detail/gallery/stormcutter-01.jpg",
+                "images/views/detail/gallery/stormcutter-02.jpg",
+                "images/views/detail/gallery/stormcutter-03.jpg",
+                "images/views/detail/gallery/stormcutter-04.jpg",
+                "images/views/detail/gallery/stormcutter-05.jpg",
+                "images/views/detail/gallery/stormcutter-06.jpg",
+                "images/views/detail/gallery/stormcutter-07.jpg",
+                "images/views/detail/gallery/stormcutter-08.jpg"
+            ]
+        },
+        "bewilderbeast": {
+            "name": "Bewilderbeast",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/bewilderbeast.jpg",
+                "summary": "At the apex of the dragon chain of command rules an exceedingly rare alpha dragon to which all others bow - the Bewilderbeast.",
+                "class": "Tidal",
+                "description": "Bewilderbeasts are not born into alpha status; it is earned through combat, vigilance and, most importantly, a desire to protect the dragons in its nest.",
+                "synopsis": "Fortunately for Bewilderbeasts, there are few other dragons in the world that can match their intimidating statues and ever hope to compete for the designation of \"king of all dragons.\" They are also impressive architects, fashioning near-impenetrable nests out of their self-generated ice and using natural hot springs to provide warmth and sustenance to the flock.",
+                "image": "images/views/detail/dragons/bewilderbeast.png",
+                "imageName": "bewilderbeast"
+            },
+            "photos": [
+                "images/views/detail/gallery/bewilderbeast-01.jpg",
+                "images/views/detail/gallery/bewilderbeast-02.jpg",
+                "images/views/detail/gallery/bewilderbeast-03.jpg",
+                "images/views/detail/gallery/bewilderbeast-04.jpg",
+                "images/views/detail/gallery/bewilderbeast-05.jpg",
+                "images/views/detail/gallery/bewilderbeast-06.jpg"
+            ]
+        },
+        "whispering-death": {
+            "name": "Whispering Death",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/whispering-death.jpg",
+                "summary": "Constantly hungry and always burrowing for unwitting food, the Whispering Death is one dragon that actually prefers being on the ground (or, more accurately, under it) to flying freely across the skies.",
+                "class": "Boulder",
+                "description": "Although plagued with poor eyesight and a terrible sense of direction that often gets them lost, Whispering Deaths more than make up for these weak points with their multiple rows of buzz-saw teeth that can bore through any solid materials, including rock.",
+                "synopsis": "It is this signature drilling power that created the hushed rumbling sound which always announces a Whispering Death before it bursts out of the earth to attack. It's no exaggeration to say that running into a Whispering Death can really suck - they can reverse the direction of their rotating teeth and inhale deeply, causing a powerful and inescapable vacuum effect! ",
+                "image": "images/views/detail/dragons/whispering-death.png",
+                "imageName": "whispering-death"
+            },
+            "photos": [
+                "images/views/detail/gallery/whispering-death-01.jpg",
+                "images/views/detail/gallery/whispering-death-02.jpg",
+                "images/views/detail/gallery/whispering-death-03.jpg",
+                "images/views/detail/gallery/whispering-death-04.jpg"
+            ]
+        },
+        "hotburple": {
+            "name": "Hotburple",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/hotburple.jpg",
+                "summary": "Hotburples are related to Gronckles, but technically are a different breed of Boulder Class dragon.",
+                "class": "Boulder",
+                "description": "Like Gronckles, Hotburples also make lava slugs out of molten minerals, but they prefer iron ore over the Gronckle's love of rocks. ",
+                "synopsis": "Personality wise, a Hotburple is like a walrus - loud, fussy, and lazy - who snores obnoxiously and easily falls asleep at any given moment, even while flying.",
+                "image": "images/views/detail/dragons/hotburple.png",
+                "imageName": "hotburple"
+            },
+            "photos": [
+                "images/views/detail/gallery/hotburple-01.jpg",
+                "images/views/detail/gallery/hotburple-02.jpg",
+                "images/views/detail/gallery/hotburple-03.jpg"
+            ]
+        },
+        "timberjack": {
+            "name": "Timberjack",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/timberjack.jpg",
+                "summary": "Native to dense, wooded areas, Timberjacks are acutely sensitive creatures that prefer the peace and solace found in their beloved forests.",
+                "class": "Sharp",
+                "description": "Don't let their introspective demeanor fool you. When attacked, betrayed, or offended, Timberjacks will start flailing their expansive wings, whose edges are razor-sharp - sharp enough to shear through the thickest tree trunk and still not slow down a Timberjack's flight!",
+                "synopsis": "Those huge wings do more than just chop trees. On the ground, Timberjacks have the ability to fold their wings around weary riders like a makeshift tent, offering warmth and protection from the elements and other dragons. They can also secrete a few drops of oil-based fire to burn the wood they have chopped and collected.",
+                "image": "images/views/detail/dragons/timberjack.png",
+                "imageName": "timberjack"
+            },
+            "photos": [
+                "images/views/detail/gallery/timberjack-01.jpg",
+                "images/views/detail/gallery/timberjack-02.jpg",
+                "images/views/detail/gallery/timberjack-03.jpg"
+            ]
+        },
+        "razorwhip": {
+            "name": "Razorwhip",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/razorwhip.jpg",
+                "summary": "Razorwhips are reclusive by choice, due to extreme mistrust of both humans and dragons. However, those who are able to prove their worthiness to a Razorwhip will have made a powerful friend and ally for life.",
+                "class": "Sharp",
+                "description": "Arguably one of the most dangerous dragons, the Razorwhip has an aggressive and deadly nature. ",
+                "synopsis": "Those that get in the way of this dragon face the risk of being squeezed to death or sliced by a tail sharp enough to chop down the thickest of foliage. In addition to the dangers implied by its name, Razorwhips possess a barrage of alternative defenses and skills, such as lacrimal toxins (poisonous tears) and extreme precision and maneuverability in flight.",
+                "image": "images/views/detail/dragons/razorwhip/razorwhip.png",
+                "imageName": "razorwhip"
+            },
+            "photos": [
+                "images/views/detail/gallery/razorwhip-01.jpg",
+                "images/views/detail/gallery/razorwhip-02.jpg",
+                "uxg9VXmP4o4"
+            ]
+        },
+        "flightmare": {
+            "name": "Flightmare",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/flightmare.jpg",
+                "summary": "Emitting a banshee wail and glowing like a phantasm, the territorial Flightmare has haunted Berkians for generations. ",
+                "class": "Mystery",
+                "description": "",
+                "synopsis": "",
+                "image": "",
+                "imageName": ""
+            },
+            "photos": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "screaming-death": {
+            "name": "Screaming Death",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/screaming-death.jpg",
+                "summary": "Born once every hundred or so years, the Screaming Death has all the strengths of its subordinate cousin, the Whispering Death, with none of the weaknesses.",
+                "class": "Boulder",
+                "description": "",
+                "synopsis": "",
+                "image": "",
+                "imageName": ""
+            },
+            "photos": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "snaptrapper": {
+            "name": "Snaptrapper",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/snaptrapper.jpg",
+                "summary": "Upon opening their triple-split jaws, Snaptrappers release a sweetly intoxicating scent, stimulating hunger in nearby dragons and humans. When the unlucky victim draws near, the Snaptrapper unfurls and strikes!",
+                "class": "Mystery",
+                "description": "",
+                "synopsis": "",
+                "image": "",
+                "imageName": ""
+            },
+            "photos": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "night-fury": {
+            "name": "Night Fury",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/nightfury.jpg",
+                "summary": "Once thought of as the “unholy offspring of lightning and death itself,” Toothless (20 in dragon years) has proven to be much more of a giant winged pussycat than the stuff of nightmares.",
+                "class": "Strike",
+                "description": "As the last known specimen of the Night Fury species, Toothless is indisputably special. ",
+                "synopsis": "Playful, inquisitive, and intelligent, Toothless is more Hiccup’s best friend than his pet. He is extremely protective of his Viking soul mate, and will stop at nothing to guard him from all harm. He commands respect from dragons and humans alike. His awesome reputation and extreme rarity also make him a target for nefarious humans.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "night-fury"
+            },
+            "photos": [
+                "images/views/detail/gallery/night-fury-01.jpg",
+                "images/views/detail/gallery/night-fury-05.jpg",
+                "images/views/detail/gallery/night-fury-02.jpg",
+                "ShIsJu3xhkE"
+            ]
+        },
+        "catastrophic-quaken": {
+            "name": "Catastrophic Quaken",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/catastrophicquaken.jpg",
+                "summary": "As a boulder class dragon, the Catastrophic Quaken literally is what it eats - as it enjoys the consumption of rocks. This dietary preference is the cause for its tendency to reside in rocky terrain where it can roam afoot and and pick up sustenance as it travels.",
+                "class": "Boulder",
+                "description": "Strong and hulking, this dragon relies on its size as the ultimate defense mechanism. ",
+                "synopsis": "When threatened, its immediate reaction is to enter protective mode and roll into a ball like a giant armadillo. Once secured into this position, it quickly takes the offense, smashing the ground to create shockwaves so powerful they will knock other dragons down whether they are on land or airborne. A lack of human interaction has made these dragons cautionary over time.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "default"
+            },
+            "photos": [
+                "images/views/detail/gallery/catastrophic-quaken-01.jpg",
+                "images/views/detail/gallery/catastrophic-quaken-02.jpg",
+                "images/views/detail/gallery/catastrophic-quaken-03.jpg",
+                "images/views/detail/gallery/catastrophic-quaken-04.jpg"
+            ]
+        },
+        "death-song": {
+            "name": "Death Song",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/death-song.jpg",
+                "summary": "Enticing and siren-like, this species of dragon is decidedly solitary -- mostly due to its tendency to consume any dragon next to it!",
+                "class": "Mystery",
+                "description": "Although deceptively beautiful in appearance and melody, the Death Song has a lethal quality that is reminscent of the Black Widow. ",
+                "synopsis": "Inhabiting a lush island beyond the archipelago, this dragon vocalizes its beautiful and hypnotic siren call in order to lure other dragons, which it then targets as prey. Rather than using fire to attack, the Death Song shoots out a liquid substance which traps and preserves victims as it hardens into a stiff amber cocoon that is penetrable only by flame. Typically, the Death Song chooses to entrap dragons only, but it also preys upon any humans unfortunate enough to make their way to its island.",
+                "image": "images/views/detail/dragons/death-song.png",
+                "imageName": "death-song"
+            },
+            "photos": [
+                "images/views/detail/gallery/death-song-01.jpg",
+                "D-dHvRlV3xI",
+                "images/views/detail/gallery/death-song-02.jpg",
+                "images/views/detail/gallery/death-song-03.jpg",
+                "images/views/detail/gallery/death-song-04.jpg"
+            ]
+        },
+        "night-terror": {
+            "name": "Night Terror",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/night-terror.jpg",
+                "summary": "While these nocturnal, bat-like dragons may not seem menacing on their own, Night Terrors are a formidable force to be reckoned with when united.",
+                "class": "Stoker",
+                "description": "They are incredibly fast and strong fliers, and their ability to take the form of a larger dragon makes them a great threat to potential predators. As a result, they are quite useful serving as sentries of Dragon's Edge. ",
+                "synopsis": "Similar to other dragons who travel in packs, the Night Terrors respond to an alpha, a slightly larger white dragon who is leader of all the others. Without the alpha, the strength of the Night Terrors is lost and they become easy prey.",
+                "image": "images/views/detail/dragons/night-terror.png",
+                "imageName": "night-terror"
+            },
+            "photos": [
+                "7XJQ1owzIeU",
+                "images/views/detail/gallery/night-terror-00.jpg",
+                "images/views/detail/gallery/night-terror-01.jpg",
+                "images/views/detail/gallery/night-terror-02.jpg"
+            ]
+        },
+        "snow-wraith": {
+            "name": "Snow Wraith",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/snowwraith.jpg",
+                "summary": "Snow Wraiths are known for their vicious and predatory nature. They are solitary creatures, with a dangerous and reclusive temperament that prevents them from forming any relationships with humans and dragons alike. Unlike most other species, these dragons are untrainable.",
+                "class": "Strike",
+                "description": "These dragons were first discovered by Gothi during an expedition to Glacier Island, the only known habitat of the Snow Wraiths.",
+                "synopsis": "Over time, Snow Wraiths have adapted to these desolate conditions in surprising ways, such as their all-white coloration that allows for natural camouflage in snowy conditions and an ability to grip onto ice using claws on their wings and tails. Snow Wraiths have no known vulnerabilities, making them a supremely formidable force to be reckoned with during battle.",
+                "image": "images/views/detail/dragons/snow-wraith.png",
+                "imageName": "snow-wraith"
+            },
+            "photos": [
+                "images/views/detail/gallery/snowwraith-dragon-01.jpg",
+                "images/views/detail/gallery/snowwraith-dragon-02.jpg",
+                "KivtXPpCioY",
+                "images/views/detail/gallery/snowwraith-dragon-03.jpg"
+            ]
+        },
+        "rumblehorn": {
+            "name": "Rumblehorn",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/rumblehorn.jpg",
+                "summary": "The Rumblehorn species is part of a previously undiscovered class - Tracker Class, being that they are the bloodhound of dragons.",
+                "class": "Tracker",
+                "description": "Rumblehorns can find anything on scent. These dragons look like a truffle pig mixed with a rhino, but much bigger.",
+                "synopsis": "They have the chitinous green-red iridescent coloring and surfacing of a scarab beetle and keep their battle axe-shaped muzzles in the dirt, sniffing things out.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "rumblehorn"
+            },
+            "photos": [
+                "images/views/detail/gallery/rumblehorn-01.jpg",
+                "images/views/detail/gallery/rumblehorn-02.jpg"
+            ]
+        },
+        "scauldron": {
+            "name": "Scauldron",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/scauldron.jpg",
+                "summary": "Patient and organized strategists by nature, Scauldrons are one of the few dragons known to prey on other dragons. Scauldrons hunt in groups, or pods, and have picked off Sliquifiers to near-extinction.",
+                "class": "Tidal",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "default"
+            },
+            "photos": [
+                ""
+            ]
+        },
+        "fireworm": {
+            "name": "Fireworm",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/fireworm.jpg",
+                "summary": "While they may be the tiniest of all dragons, Fireworms are not to be trifled with. Staying hidden in caverns and caves, Fireworms can amass in the hundreds, and even a single one, when threatened, will burn like a red-hot coal in your hand.",
+                "class": "Stoker",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "default"
+            },
+            "photos": [
+                "images/views/detail/gallery/default.jpg"
+            ]
+        },
+        "changewing": {
+            "name": "Changewing",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/changewing.jpg",
+                "summary": "The \"chameleon-like\" Changewings are skilled predators and some of the deadliest dragons in the Book of Dragons. Their camouflaging skills are second to none, allowing them to blend in with rocks, trees, foliage and even buildings. ",
+                "class": "Mystery",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "default"
+            },
+            "photos": [
+                "images/views/detail/gallery/default.jpg"
+            ]
+        },
+        "terrible-terror": {
+            "name": "Terrible Terror",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/terribleterror.jpg",
+                "summary": "One of the smallest of all of the known dragons, but don’t let its tiny stature fool you. This pesky dragon has caused Vikings all sorts of problems, especially considering their affinity to travel in groups ranging from five to upwards of ten. They also pack a pretty lethal puff of fire if you upset them.",
+                "class": "Stoker",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "terrible-terror"
+            },
+            "photos": [
+                "images/views/detail/gallery/default.jpg"
+            ]
+        },
+        "deadly-nadder": {
+            "name": "Deadly Nadder",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/deadlynadder.jpg",
+                "summary": "Deadly Nadders can suddenly raise the hundreds of sharp spines that stud their hides and tails, and fling them with incredible accuracy. But when the shooting starts, there is no safer place to be than face-to-face with a Nadder - If you stand right in front of its nose, a Nadder won't be able to see you.",
+                "class": "Tracker",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "deadly-nadder"
+            },
+            "photos": [
+                "images/views/detail/gallery/default.jpg"
+            ]
+        },
+        "hideous-zippleback": {
+            "name": "Hideous Zippleback",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/hideouszippleback.jpg",
+                "summary": "In battles, Zipplebacks have the secret ouroboros-like power to bite their own tails and set themselves on fire, taking on the form of a flaming wheel that knocks down their opponents like ten-pins!",
+                "class": "Mystery",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "hideous-zippleback"
+            },
+            "photos": [
+                "images/views/detail/gallery/default.jpg"
+            ]
+        },
+        "monstrous-nightmare": {
+            "name": "Monstrous Nightmare",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/montrousnightmare.jpg",
+                "summary": "Incendiary in temperament and short on patience, the Monstrous Nightmare would rather ignite first and think later. If cornered, the Monstrous Nightmare will coat itself with fire from nose to tail.",
+                "class": "Stoker",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "monstrous-nightmare"
+            },
+            "photos": [
+                "images/views/detail/gallery/default.jpg"
+            ]
+        },
+        "gronckle": {
+            "name": "Gronckle",
+            "hasDetail": false,
+            "info": {
+                "thumbnail": "images/views/map/dragons/gronckle.jpg",
+                "summary": "Gronckles make up for their small wing size with tremendous flapping velocity, like hummingbirds. When Gronckles ingest more than one rock at a time, they will occasionally spit out a brand-new substance in lava form.",
+                "class": "Boulder",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at urna vel mauris tincidunt blandit. Donec sit amet leo id libero consectetur laoreet eget et mauris. Aliquam congue sagittis metus, ut eleifend neque. Suspendisse posuere volutpat magna, sed feugiat orci faucibus dignissim. Maecenas eget quam sit amet ante consequat congue in eget libero. Curabitur in neque id urna pulvinar gravida. Donec sagittis eros et lorem euismod, eu tincidunt quam dignissim.",
+                "image": "images/views/detail/dragons/default.png",
+                "imageName": "default"
+            },
+            "photos": [
+                "images/views/detail/gallery/default.jpg"
+            ]
+        },
+        "buffalord": {
+            "name": "Buffalord",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/buffalord.jpg",
+                "summary": "Although it’s been hunted to near extinction, the benevolent Buffalord holds the only cure to the lethal disease known as The Scourge of Odin.",
+                "class": "Mystery",
+                "description": "Once roaming across the archipelago in large herds, the Buffalord now leads a solitary existence grazing in peace and secreting a green drool with amazing curative properties.",
+                "synopsis": "As such, this exceedingly rare dragon would fetch a hefty price at any auction. Fortunately, the Buffalord has no interest in leaving its grassy plains and will keep any hunter at bay with its abilities: firing the many spikes studding its hide and doubling its size by inflating!",
+                "image": "images/views/detail/dragons/hotburple.png",
+                "imageName": "buffaload"
+            },
+            "photos": [
+                "HEdhIAMdECY",
+                "images/views/detail/gallery/buffaload-01.jpg",
+                "images/views/detail/gallery/buffaload-02.jpg",
+                "images/views/detail/gallery/buffaload-03.jpg"
+            ]
+        },
+        "triple-stryke": {
+            "name": "Triple Stryke",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/triple-stryke.jpg",
+                "summary": "Vicious. Aggressive. Belligerent. These are only three of the words that describe the Triple Strike in battle and the incredible fury it unleashes with its trio of braided tails.",
+                "class": "Strike",
+                "description": "Displaying an ornery disposition from the time of their hatching, Triple Strykes make the ideal champions in underground dragon combat arenas.",
+                "synopsis": "With their barbed hides that deflect attacks, their intense fire blasts that blind opponents, and their tail triad that braids into a single powerful weapon, a Triple Stryke wins most bouts on intimidation alone. But victory sometimes breeds vanity, and exploiting this overconfidence is often the only way to defeat a Triple Stryke in battle.",
+                "image": "images/views/detail/dragons/hotburple.png",
+                "imageName": "triple-stryke"
+            },
+            "photos": [
+                "TozT_sBiDAM",
+                "images/views/detail/gallery/triple-stryke-01.jpg",
+                "images/views/detail/gallery/triple-stryke-02.jpg",
+                "images/views/detail/gallery/triple-stryke-03.jpg",
+                "images/views/detail/gallery/triple-stryke-04.jpg",
+                "images/views/detail/gallery/triple-stryke-05.jpg"
+            ]
+        },
+        "singetail": {
+            "name": "Singetail",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/singetail.jpg",
+                "summary": "Fiercely territorial, Singetails don’t just breathe fire — they send it blasting out of their jaws, gills, and tails!",
+                "class": "Stoker",
+                "description": "First discovered by Spitelout when he colonized Storehouse Island, the elusive Singetails prefer to scare away their enemies with long-range attacks, like hurling fireballs from their tails.",
+                "synopsis": "However, Singetails also pose a danger in close-quarters combat by shunting jets of flame from the gills lining their exposed underbellies. No dragon or rider can ever get the drop on a Singetail due to its articulated eyes — they swivel to the sides and back of its head and give the Singetail a 360-degree lay of the land. Since it can look in two directions at once, the Singetail can act as its own tailgunner!",
+                "image": "images/views/detail/dragons/hotburple.png",
+                "imageName": "singetail"
+            },
+            "photos": [
+                "wsRhKe2LQxU",
+                "images/views/detail/gallery/singetail-01.jpg",
+                "images/views/detail/gallery/singetail-02.jpg",
+                "images/views/detail/gallery/singetail-03.jpg",
+                "images/views/detail/gallery/singetail-04.jpg",
+                "IyDYhbBnrqw"
+            ]
+        },
+        "cavern-crasher": {
+            "name": "Cavern Crasher",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/cavern-crasher.jpg",
+                "summary": "The Cavern Crasher flings flammable mucus and scurries across underground catacombs in search of its favorite food: Firecomb!",
+                "class": "Mystery",
+                "description": "Single-minded and voracious, the Cavern Crasher may lack wings, but its body has adapted to survive beneath the earth.",
+                "synopsis": "With its reinforced beak and claws, this dragon climbs rock walls and hangs upside-down from stalactites. But the Cavern Crasher’s most dangerous feature, by far, is its ability to excrete and eject slick mucus from the bulbous ducts on its back and then set it ablaze!",
+                "image": "images/views/detail/dragons/hotburple.png",
+                "imageName": "cavern-crasher"
+            },
+            "photos": [
+                "fF_gnWh3NlE",
+                "images/views/detail/gallery/cavern-crasher-01.jpg",
+                "images/views/detail/gallery/cavern-crasher-02.jpg",
+                "images/views/detail/gallery/cavern-crasher-03.jpg"
+            ]
+        },
+        "eruptodon": {
+            "name": "Eruptodon",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/eruptodon.jpg",
+                "summary": "Revered as a “great protector,” the Eruptodon eats the lava from inside Caldera Cay’s volcano to defend the Defenders of the Wing!",
+                "class": "Boulder",
+                "description": "With its craggy igneous hide, heat-shielded eyes, and endless appetite for magma, the Eruptodon prefers to live inside volcanos to be nearer to his main food source.",
+                "synopsis": "This natural give and take between Geology and dragon protects the Defenders of the Wing from catastrophe and, as a result, the warrior tribe worships their loyal Eruptodon. Although not much of a fighter, the Eruptodon provides tremendous damage control by eating any runaway lava — even if it’s been regurgitated by Gronckles!",
+                "image": "",
+                "imageName": "eruptodon"
+            },
+            "photos": [
+                "qnkDDzuXOfc",
+                "images/views/detail/gallery/eruptodon-01.jpg",
+                "images/views/detail/gallery/eruptodon-02.jpg",
+                "images/views/detail/gallery/eruptodon-03.jpg"
+            ]
+        },
+        "shellfire": {
+            "name": "Shellfire",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/shellfire.jpg",
+                "summary": "An enormous deep sea dweller with crustacean attributes, the Shellfire glides through the ocean at incredible speeds and tows the Dragon Hunter battleship bolted to its back!",
+                "class": "Tidal",
+                "description": "Reminiscent of a much larger — much angrier — horseshoe crab, the Shellfire shrugs off attacks with its durable carapace and delivers devastation with its protruding prong horns.",
+                "synopsis": "In the past, unwitting sailors used to mistake its sizable shell for a landmass and scuttle their ships on it. That was the last time anyone ever heard from those sailors, but rumors of their demise likely gave Viggo Grimborn the idea to fasten a metal, dragon hunting warship to the Shellfire’s back!",
+                "image": "",
+                "imageName": "shellfire"
+            },
+            "photos": [
+                "images/views/detail/gallery/shellfire-01.jpg",
+                "images/views/detail/gallery/shellfire-02.jpg",
+                "images/views/detail/gallery/shellfire-03.jpg"
+            ]
+        },
+        "submaripper": {
+            "name": "Submaripper",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/submaripper.jpg",
+                "summary": "Hailing from the Tidal class, the Submaripper has sent many a Viking to a watery grave with its ability to create inescapable whirlpools. Just watch out for its gas bubbles!",
+                "class": "Tidal",
+                "description": "Charybdis. The Kraken. Sea serpents. For centuries, frightened sailors have told tales of a beast that could turn the very oceans against them — if only they knew how right those myths were! ",
+                "synopsis": "The Submaripper dragon whips up whirlpools by creating a vortex with its mouth and starts tsunamis when its massive body breaches the water’s surface like a whale. Yet the Submaripper only unleashes these defenses when attacked by foolish Vikings and when it encounters its natural enemy, the Shellfire! ",
+                "image": "",
+                "imageName": "submaripper"
+            },
+            "photos": [
+                "9H7HVeQ9OGA",
+                "images/views/detail/gallery/submaripper-02.jpg",
+                "images/views/detail/gallery/submaripper-03.jpg",
+                "images/views/detail/gallery/submaripper-04.jpg"
+            ]
+        },
+        "sandbuster": {
+            "name": "Sandbuster",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/sandbuster.jpg",
+                "summary": "The Sandbuster lurks under the Northern Markets’ shores to guard its gold and sink any trespassers",
+                "class": "Mystery",
+                "description": "For years now, the Sandbuster has lived under those shores, amassing a valuable pile of gems and gold in its cave. ",
+                "synopsis": "Territorial and greedy, the Sandbuster burrows sinkholes in the ground that swallow up any humans foolish enough to tread near its riches. The dragon’s only weakness is sunlight, which burns its sensitive scales in a matter of seconds. ",
+                "image": "images/views/detail/dragons/sandbuster-solo.png",
+                "imageName": "sandbuster-solo"
+            },
+            "photos": [
+                "images/views/detail/gallery/sanbuster-01.jpg",
+                "YBVSdMpKGUg",
+                "KWW0qfZSURQ",
+                "images/views/detail/gallery/sanbuster-04.jpg",
+                "images/views/detail/gallery/sanbuster-05.jpg",
+                "images/views/detail/gallery/sanbuster-02.jpg",
+                "images/views/detail/gallery/sanbuster-03.jpg"
+            ]
+        },
+        "sentinel": {
+            "name": "Sentinel",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/sentinel.jpg",
+                "summary": "Although sightless, the Sentinels still keep close watch over the dragon graveyard on the Isle of Vanaheim.",
+                "class": "Boulder",
+                "description": "Often mistaken for stone statues, the Sentinels remain absolutely still when they allow ailing dragons to enter Vanaheim. But at the first hint of an intruder, these sentries defend the sacred burial ground with sonic screeches and downdraft wing blasts.",
+                "synopsis": "Born blind, Sentinels have evolved their senses of hearing and smell to hyper-keen levels, making them incredibly alert. Yet despite their fearsome appearance, Sentinels show a softer side by caring for the old and ill dragons who have come to spend their final days on Vanaheim.",
+                "image": "images/views/detail/dragons/sentinel-solo.png",
+                "imageName": "sentinel-solo"
+            },
+            "photos": [
+                "images/views/detail/gallery/sentinel-01.jpg",
+                "images/views/detail/gallery/sentinel-02.jpg",
+                "images/views/detail/gallery/sentinel-03.jpg",
+                "Tp5WyZ9nF9E"
+            ]
+        },
+        "slitherwing": {
+            "name": "Slitherwing",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/slitherwing.jpg",
+                "summary": "Giant winged snakes with venomous scales and fangs, Slitherwings are truly the stuff of nightmares! ",
+                "class": "Mystery",
+                "description": "As if one Slitherwing wasn’t deadly enough, the poisonous dragons tend to hunt in packs.",
+                "synopsis": "Like regular snakes, a Slitherwing’s bright coloration indicates its venom level. The more colorful the Slitherwing, the deadlier the attack. These oversized serpents slither at top speeds, sedate prey with the toxins in their bites, and drag them back to their pit for dinner. Equally aggressive against Vikings and dragons, Slitherwings fear only one thing: Fire.",
+                "image": "images/views/detail/dragons/slitherwing-solo.png",
+                "imageName": "slitherwing-solo"
+            },
+            "photos": [
+                "images/views/detail/gallery/slitherwing-01.jpg",
+                "VA7-9iLPorU",
+                "images/views/detail/gallery/slitherwing-03.jpg",
+                "images/views/detail/gallery/slitherwing-02.jpg"
+            ]
+        },
+        "grim-gnasher": {
+            "name": "Grim Gnasher",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/grimgnasher.jpg",
+                "summary": "Despite their small size, Grim Gnashers love nothing more than to sink their thousands of teeth into smaller and weaker dragons.",
+                "class": "Sharp",
+                "description": "Sneaky and opportunistic, Grim Gnashers circle above their injured prey like carrion birds.",
+                "synopsis": "Even though they hunt in packs, Grim Gnashers prefer to feast on a dragon that can’t defend itself, rather than take on a healthy dragon. Yet Grim Gnashers are just as deadly with their long-range attacks. Possessing a shark-like ability to regenerate row after row of sharp teeth, these dragons spit out fiery blasts of fangs with remarkable precision and accuracy. But perhaps the most dangerous thing about Grim Gnashers is their ability to plan and communicate with each other to outsmart their quarry.",
+                "image": "images/views/detail/dragons/grim-gnasher-solo.png",
+                "imageName": "grim-gnasher-solo"
+            },
+            "photos": [
+                "images/views/detail/gallery/grim-gnasher-01.jpg",
+                "images/views/detail/gallery/grim-gnasher-02.jpg",
+                "images/views/detail/gallery/grim-gnasher-03.jpg"
+            ]
+        },
+        "dramillion": {
+            "name": "Dramillion",
+            "hasDetail": true,
+            "info": {
+                "thumbnail": "images/views/map/dragons/dramillion.jpg",
+                "summary": "Although normally withdrawn and wary of humans, Dramillions mimic the fire blasts of any type of dragon they encounter.",
+                "class": "Mystery",
+                "description": "With their striking coloration, peaked crowns, and curved beaks, Dramillions have often been called the parrots of the dragon world.",
+                "synopsis": "But the similarity extends beyond the surface level, for these uncanny creatures can also repeat any kind of dragon fire they see. The Dramillion duplicates blasts that look — and burn — like the real thing. It’s no wonder, then, that Dragon Hunters once forced Dramillions to reproduce their many fire forms for training drills. Dramillions have the highest shot count of any dragon species by far. But even these copycats will hit empty after enough blasts. Fortunately, Dramillions can also transfer flames to each other. If one runs out of heat, the rest of the pack shares their reserves with the spent Dramillion so it can fire up again!",
+                "image": "images/views/detail/dragons/dramillion.png",
+                "imageName": "dramillion"
+            },
+            "photos": [
+                "images/views/detail/gallery/dramillion-1.jpg",
+                "images/views/detail/gallery/dramillion-2.jpg",
+                "images/views/detail/gallery/dramillion-3.jpg",
+                "images/views/detail/gallery/dramillion-4.jpg",
+                "images/views/detail/gallery/dramillion-5.jpg",
+                "S09OX6wBAGY"
+            ]
+        }
+    },
+    "detailCopy": {
+        "backToMap": "Back to map",
+        "location": "Location",
+        "about": "About",
+        "gallery": "Gallery",
+        "species": "Species",
+        "class": "Class",
+        "photos": "Photos"
+    },
+    "exit": {
+        "description": "You are about to leave the <span>DREAMWORKS DRAGONS: RACE TO THE EDGE</span> website.",
+        "goBack": "Go Back",
+        "continue": "Continue"
+    }
+}
